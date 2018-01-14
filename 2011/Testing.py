@@ -1,0 +1,12 @@
+
+print("I can count from 1 to 10!")
+print(- -1)
+print(- -2)
+print(- -1 - -2)
+print(-2 - -6)
+print(- -4 - -1)
+print(-2 * -3)
+print(- -7)
+print(- -7 - -1)
+print(-3 * -3)
+print(-5 * -2)
